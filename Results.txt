@@ -1,0 +1,33 @@
+Innings against All with scores greater than 100 :
+
+112 was scored against England and he was out Caught
+123 was scored against England and he was out Caught
+131 was scored against England and he was out Bowled
+254 was scored against England and he was out Caught
+334 was scored against England and he was out Caught
+232 was scored against England and he was out Caught
+223 was scored against West Indies and he was out Caught
+152 was scored against West Indies and he was out Caught
+226 was scored against South Africa and he was out LBW
+112 was scored against South Africa and he was out Caught
+167 was scored against South Africa and he was out LBW
+299 was scored against South Africa and he was Not Out
+103 was scored against England and he was Not Out
+304 was scored against England and he was out Bowled
+244 was scored against England and he was out Caught
+270 was scored against England and he was out Caught
+212 was scored against England and he was out Caught
+169 was scored against England and he was out Bowled
+144 was scored against England and he was Not Out
+102 was scored against England and he was Not Out
+103 was scored against England and he was out Bowled
+187 was scored against England and he was out Bowled
+234 was scored against England and he was out LBW
+185 was scored against India and he was out Hit Wicket
+132 was scored against India and he was out LBW
+127 was scored against India and he was Not Out
+201 was scored against India and he was out Bowled
+138 was scored against England and he was out Caught
+173 was scored against England and he was Not Out
+
+A total of 5393 runs was scored at an average of 234.48
